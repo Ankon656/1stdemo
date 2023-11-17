@@ -1,2 +1,2 @@
 # 1stdemo
-This myi
+This is my 1st Git Repository.
